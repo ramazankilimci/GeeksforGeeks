@@ -1,7 +1,8 @@
-First solved on GeeksforGeeks site. You can find problem and its link below.
+First solved problem on GeeksforGeeks site. You can find problem and its link below.
 
-<h>Problem<h>
-Given a string str containing alphanumeric characters, calculate sum of all numbers present in the string.
+**Problem : Sum of the Strings**
+
+Given a string **str** containing alphanumeric characters, calculate sum of all numbers present in the string.
 
 Input:
 The first line of input contains an integer T denoting the number of test cases. Then T test cases follow. Each test case contains a string containing alphanumeric characters.
@@ -13,7 +14,8 @@ Constraints:
 1<=T<=105
 1<=length of the string<=105
 
-Example:
+**Example:**
+
 Input:
 4
 1abc23
